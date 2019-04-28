@@ -1,0 +1,8 @@
+[package]
+name = "tion"
+version = "0.1.0"
+authors = ["codechenx <codechenx@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+termion = "*"
